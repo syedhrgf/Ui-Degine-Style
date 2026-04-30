@@ -128,6 +128,4 @@ There is no “best” UI style — the right choice depends on:
 * Product type
 * Target users
 * Performance needs
-
-Always balance **design + usability + performance**
 ---
