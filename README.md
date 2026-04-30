@@ -1,4 +1,4 @@
-# UI Design Styles – Team Notes
+# UI Design Styles 
 
 ## Overview
 
