@@ -1,12 +1,6 @@
-# UI Design Styles 
 
-## Overview
 
-UI design styles define the **visual look and feel** of an application. Choosing the right style impacts usability, performance, and user experience.
-
----
-
-## Core UI Styles
+# Core UI Styles
 
 ### 1. Neumorphism
 
